@@ -10,23 +10,23 @@
   </features>
   <libraries>
     <library path="library.swf">
-      <script name="nz/co/robbieboyd/ANEOpenSettings" mod="1432087777000" signatureChecksum="3373155492" >
+      <script name="nz/co/robbieboyd/ANEOpenSettings" mod="1432097503000" signatureChecksum="3818284457" >
         <def id="nz.co.robbieboyd:ANEOpenSettings" /> 
-        <dep id="trace" type="e" /> 
+        <dep id="flash.system:Capabilities" type="e" /> 
         <dep id="flash.external:ExtensionContext" type="e" /> 
         <dep id="Error" type="e" /> 
         <dep id="flash.external:ExtensionContext" type="s" /> 
         <dep id="AS3" type="n" /> 
         <dep id="Object" type="i" /> 
       </script>
-      <script name="_186aaca1af6172953391e8252058b240449e8cf831dae0fcfec51f2fd85a18ff_flash_display_Sprite" mod="1432087777908" signatureChecksum="2744154869" >
-        <def id="_186aaca1af6172953391e8252058b240449e8cf831dae0fcfec51f2fd85a18ff_flash_display_Sprite" /> 
+      <script name="_d71b96ad5cbd89a35721a8261f0339bcf4be77cdd6c2b09f0c42032623b72b96_flash_display_Sprite" mod="1432097503988" signatureChecksum="2675604097" >
+        <def id="_d71b96ad5cbd89a35721a8261f0339bcf4be77cdd6c2b09f0c42032623b72b96_flash_display_Sprite" /> 
         <dep id="flash.system:Security" type="e" /> 
         <dep id="AS3" type="n" /> 
         <dep id="flash.display:Sprite" type="i" /> 
       </script>
       <digests>
-        <digest type="SHA-256" signed="false" value="fdc6c14bc656e9ccf82eff6d5113daad636feb9d1c26c81cbc479d018a03b866"   />
+        <digest type="SHA-256" signed="false" value="ba572d872a27efb39b3ff03cb8ba4f8c9ada8152f4983a85980c738626b7872d"   />
       </digests>
     </library>
   </libraries>

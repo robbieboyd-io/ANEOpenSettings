@@ -2,6 +2,12 @@
     <id>nz.co.robbieboyd</id> 
     <versionNumber>1</versionNumber> 
     <platforms> 
+        <platform name="Android-ARM"> 
+          <deviceDeployment/> 
+        </platform>
+        <platform name="Android-x86"> 
+          <deviceDeployment/> 
+        </platform>
         <platform name="iPhone-ARM"> 
             <applicationDeployment> 
                 <nativeLibrary>libANEOpenSettings.a</nativeLibrary> 
