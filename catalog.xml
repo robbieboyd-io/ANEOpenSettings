@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding ="utf-8"?>
+<swc xmlns="http://www.adobe.com/flash/swccatalog/9">
+  <versions>
+    <swc version="1.2" />
+    <flex version="4.6.0" build="23201" minimumSupportedVersion="3.0.0" />
+  </versions>
+  <features>
+    <feature-script-deps />
+    <feature-files />
+  </features>
+  <libraries>
+    <library path="library.swf">
+      <script name="nz/co/robbieboyd/ANEOpenSettings" mod="1432087777000" signatureChecksum="3373155492" >
+        <def id="nz.co.robbieboyd:ANEOpenSettings" /> 
+        <dep id="trace" type="e" /> 
+        <dep id="flash.external:ExtensionContext" type="e" /> 
+        <dep id="Error" type="e" /> 
+        <dep id="flash.external:ExtensionContext" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="Object" type="i" /> 
+      </script>
+      <script name="_186aaca1af6172953391e8252058b240449e8cf831dae0fcfec51f2fd85a18ff_flash_display_Sprite" mod="1432087777908" signatureChecksum="2744154869" >
+        <def id="_186aaca1af6172953391e8252058b240449e8cf831dae0fcfec51f2fd85a18ff_flash_display_Sprite" /> 
+        <dep id="flash.system:Security" type="e" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.display:Sprite" type="i" /> 
+      </script>
+      <digests>
+        <digest type="SHA-256" signed="false" value="fdc6c14bc656e9ccf82eff6d5113daad636feb9d1c26c81cbc479d018a03b866"   />
+      </digests>
+    </library>
+  </libraries>
+  <files>
+  </files>
+</swc>
